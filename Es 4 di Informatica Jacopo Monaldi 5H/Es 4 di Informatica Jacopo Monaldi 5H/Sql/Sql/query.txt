@@ -1,0 +1,14 @@
+#Tutti gli ordini elaborati dall'impiegato @PAR1@
+SELECT * FROM Ordini
+WHERE IDImpiegato = @PAR1@
+
+#Tutti gli ordini per il corriere 3
+SELECT * FROM Ordini
+WHERE Corriere = 5
+
+#Tutti gli ordini diretti in italia
+SELECT * FROM Ordini
+WHERE PaeseDestinatario = 'Francia'
+
+#Numero di clienti
+SELECT COUNT(*) NumClienti FROM Clienti

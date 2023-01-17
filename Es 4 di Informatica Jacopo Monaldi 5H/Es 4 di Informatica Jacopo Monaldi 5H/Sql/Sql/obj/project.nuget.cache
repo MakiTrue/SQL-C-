@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ha2BDgd1zhjpmauE3K25nqp0Vr2nrjnTAPTENFH2RxAjkLQNiMI2Urbt/VarnVl1Bj32AVX6UlRgOg+LIOiVbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\massi\\OneDrive\\Desktop\\5H\\Informatica\\Compiti\\C#\\Es 4 di Informatica Jacopo Monaldi 5H\\Es 4 di Informatica Jacopo Monaldi 5H\\Sql\\Sql\\Sql.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\massi\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\massi\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}
